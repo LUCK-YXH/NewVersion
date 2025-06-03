@@ -1,0 +1,8 @@
+/* Update alert title */
+"update_alert_title" = "New Version Available";
+
+/* Update alert: Update Now button title */
+"update_alert_update_button" = "Update Now";
+
+/* Update alert: Later button title */
+"update_alert_later_button" = "Later";
