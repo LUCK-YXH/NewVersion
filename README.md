@@ -30,7 +30,7 @@
 
 1.  在 Xcode 中，打开你的项目。
 2.  选择 `File` > `Add Packages...`
-3.  在搜索框中输入你的包的 Git URL (例如: `https://your-repo-url/NewVersion.git` - **请替换为你的实际仓库URL**)。
+3.  在搜索框中输入你的包的 Git URL ('https://github.com/LUCK-YXH/NewVersion.git')。
 4.  选择版本规则（例如，`Up to Next Major Version` from `1.0.0`）。
 5.  点击 `Add Package`。
 6.  选择要将库添加到的目标。
@@ -151,8 +151,8 @@ AppUpdateManager.shared.clearLastPromptedVersion()
 
 -   **`UpdateAlertViewController`**:
     -   用于显示更新弹窗的 `UIViewController`。
-    -   `onLater`: 用户点击"稍后"按钮的回调。
-    -   `onUpdate`: 用户点击"更新"按钮的回调。
+    -   `onLater`: 用户点击“稍后”按钮的回调。
+    -   `onUpdate`: 用户点击“更新”按钮的回调。
     -   `Configuration`: 结构体，用于详细配置弹窗的UI和文本。
         -   `LocalizationKeys`: 结构体，包含默认本地化键名和辅助方法。
 
@@ -162,4 +162,4 @@ AppUpdateManager.shared.clearLastPromptedVersion()
 
 ---
 
-希望这个 `README.md` 对您有所帮助！ 
+希望这个 `README.md` 对您有所帮助！
