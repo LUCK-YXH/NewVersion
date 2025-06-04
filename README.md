@@ -17,6 +17,13 @@
     -   `AppUpdateManager`: 核心管理类，负责处理更新逻辑和显示提示。
     -   `UpdateAlertViewController`: 用于展示更新信息的弹窗视图控制器。
 
+## 截图
+
+<img src="https://github.com/user-attachments/assets/0a0d06ef-9052-4342-a2b3-e85592c9a393" alt="Simulator Screenshot - iPhone 16 Pro - 2025-06-04 at 10 25 44" width="400" />
+
+<img src="https://github.com/user-attachments/assets/3c79b526-4652-49d2-b46b-8b3277a475ee" alt="Simulator Screenshot - iPhone 16 Pro - 2025-06-04 at 10 26 04" width="400" />
+
+
 ## 环境要求
 
 -   iOS 13.0+
